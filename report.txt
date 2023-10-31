@@ -1,0 +1,96 @@
+Updated A table of iteration 1 message sent by C
+A -> D(Initial d=6)
+C -> D(Saying d=3)
+A -> C(Saying d=2)
+A -> D(Final d=5)
+
+Updated A table of iteration 1 message sent by D
+A -> E(Initial d=9999)
+D -> E(Saying d=2)
+A -> D(Saying d=5)
+A -> E(Final d=7)
+
+Updated C table of iteration 1 message sent by A
+C -> B(Initial d=9999)
+A -> B(Saying d=4)
+C -> A(Saying d=2)
+C -> B(Final d=6)
+
+Updated C table of iteration 1 message sent by D
+C -> E(Initial d=9999)
+D -> E(Saying d=2)
+C -> D(Saying d=3)
+C -> E(Final d=5)
+
+Updated E table of iteration 1 message sent by D
+E -> A(Initial d=9999)
+D -> A(Saying d=6)
+E -> D(Saying d=2)
+E -> A(Final d=8)
+
+Updated E table of iteration 1 message sent by D
+E -> C(Initial d=9999)
+D -> C(Saying d=3)
+E -> D(Saying d=2)
+E -> C(Final d=5)
+
+Updated E table of iteration 1 message sent by A
+E -> B(Initial d=9999)
+A -> B(Saying d=4)
+E -> A(Saying d=8)
+E -> B(Final d=12)
+
+Updated E table of iteration 1 message sent by C
+E -> A(Initial d=8)
+C -> A(Saying d=2)
+E -> C(Saying d=5)
+E -> A(Final d=7)
+
+Updated E table of iteration 1 message sent by C
+E -> B(Initial d=12)
+C -> B(Saying d=6)
+E -> C(Saying d=5)
+E -> B(Final d=11)
+
+Updated B table of iteration 1 message sent by A
+B -> C(Initial d=9999)
+A -> C(Saying d=2)
+B -> A(Saying d=4)
+B -> C(Final d=6)
+
+Updated B table of iteration 1 message sent by A
+B -> D(Initial d=9999)
+A -> D(Saying d=6)
+B -> A(Saying d=4)
+B -> D(Final d=10)
+
+Updated B table of iteration 1 message sent by A
+B -> D(Initial d=10)
+A -> D(Saying d=5)
+B -> A(Saying d=4)
+B -> D(Final d=9)
+
+Updated B table of iteration 1 message sent by A
+B -> E(Initial d=9999)
+A -> E(Saying d=7)
+B -> A(Saying d=4)
+B -> E(Final d=11)
+
+Updated D table of iteration 1 message sent by A
+D -> B(Initial d=9999)
+A -> B(Saying d=4)
+D -> A(Saying d=6)
+D -> B(Final d=10)
+
+Updated D table of iteration 1 message sent by C
+D -> A(Initial d=6)
+C -> A(Saying d=2)
+D -> C(Saying d=3)
+D -> A(Final d=5)
+
+Updated D table of iteration 1 message sent by A
+D -> B(Initial d=10)
+A -> B(Saying d=4)
+D -> A(Saying d=5)
+D -> B(Final d=9)
+
